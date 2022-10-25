@@ -1,8 +1,34 @@
 /******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+             Create a structure Student having the data members: Name, MT-1, MT-2, Finals to store the Name of the student, Mid-Term-1 score, Mid-Term-2 score and Finals score.
+
+Use proper functions to store, access and manipulate the data in the variables of the structure and to perform all the requested tasks described below.
+
+(Create at least 5 variables of this structure.)
+
+ 
+
+A sample of inputs the objects of class Student is provided below:
+
+
+Barrett Edan    70  45  59
+Bradshaw Reagan   96  97  88
+Charlton Caius   73  94  80
+Mayo Tyrese   88  61  36
+Stern Brenda   90  86  45
+
+ 
+
+Then, the C program should perform the following tasks:
+
+
+Compute the average exam score of each student.
+Assign a letter grade to each student based on the average exam score in the following scale:
+A: 90 =< x
+B: 80 =< x < 90
+C: 70 =< x < 80
+D: 60 =< x < 70
+F: x < 60
 
 *******************************************************************************/
 
